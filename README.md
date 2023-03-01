@@ -1,6 +1,6 @@
-# EnvironmentAnalysis
+# WeatherBrain
 
-Third Semester IT-Workshop Project
+GUI to analyize the climate change patterns
 
 ## Roadmap
 
